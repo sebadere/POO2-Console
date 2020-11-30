@@ -1,0 +1,17 @@
+{
+  "name": "consola",
+  "version": "1.0.0",
+  "description": "TP FINAL POO2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Nicolas Gota",
+  "license": "ISC",
+  "dependencies": {
+    "oow": "^1.5.0"
+  },
+  "devDependencies": {
+    "@Sdere/testy": "^2.1.0"
+  }
+}
